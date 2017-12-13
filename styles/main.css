@@ -7,6 +7,7 @@ p {
 
 img {
 	margin: 0 auto 15px auto; 	
+	display: block;
 }
 
 h1 {
