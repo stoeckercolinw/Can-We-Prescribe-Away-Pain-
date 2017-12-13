@@ -1,1 +1,10 @@
 /* Put any custom CSS rules here */
+
+p {
+	max-width: 600px;
+	margin: 0 auto 15px auto; 
+}
+
+img {
+	margin: 0 auto 15px auto; 	
+}
